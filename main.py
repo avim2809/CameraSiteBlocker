@@ -1,4 +1,4 @@
-from dnschef.dnschef import start_dns_server
+from dnschef import start_dns_server
 from gad import start_cam_therad
 from threading import Lock
 
